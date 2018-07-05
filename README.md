@@ -3,9 +3,9 @@
   
     the same time line       
    
-    |----------------------------------------------------------------------|-------------------------|parent 
-    | Loop  Linux  opposeLinux     |                                       |          ↓              |super version
-    |                            |                                         |          ↓              |
+    |----------------------------------------------------------------------|-------------------------|Parent  
+    | Loop  Linux  opposeLinux     |                                       |          ↓              |Supervise
+    |                            |                                         |          ↓              |Biometrics
     |                         |      |about electric system|               |          ↓              |
     |                      |                   ↓                           |          ↓              |
     |                    |          safe system  unsafe system             |  electric system ...    |
@@ -13,11 +13,11 @@
     |              |        freedom unfreedom         freedom unfreedom    |         ...             | 
     |            |             ↓        ↓              ↓         ↓         |       ↓     ↓           |
     |----------------------------------------------------------------------|-------------------------|
-    |          |                English Version  Chinese Version           |Other Language Version...|
+    |          |                English Version  Chinese Version            Other Language Version...|
     |          |                        ↓              ↓                              ↓              |
     |          |                               ↓                             ↓                       |
     |          |                                              ↓                                      |
-    |          |                                the same guide programm system                       |
+    |          |                                The same guide programm system                       |
     |          |                                              ↓                                      |  
     |          |                                                                                     |
     |          |                                                                                     |
