@@ -43,6 +43,6 @@
 >>>
 >>
 > 
-   some i like company list
-   touch company synaptics 
-   some words    graphical 
+   some i like company list </br>
+   touch company synaptics </br>
+   some words    graphical </br>
