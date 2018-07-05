@@ -5,9 +5,10 @@
     the same time line       
     |-------------------------------------------------------------------------------------------------
     | Loop  Linux  opposeLinux     |                                                  |
-    |                          |       |  about system |                              |
-    |                       |                  |                                      |
-    |                    |         safe system   unsafe system                electric system ...   
+    |                            |                                                    |
+    |                         |      |about electric system|                          |
+    |                      |                   |                                      |
+    |                    |          safe system  unsafe system                electric system ...   
     |                 |                 |              |                              | 
     |              |        freedom unfreedom         freedom unfreedom              ... 
     |            |             |        |              |         |                 |     | 
