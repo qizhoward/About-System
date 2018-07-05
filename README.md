@@ -6,7 +6,7 @@
     |----------------------------------------------------------------------|-------------------------|Parent  
     | Loop  Linux  opposeLinux     |                                       |          ↓              |Supervise
     |                            |                                         |          ↓              |Biometrics
-    |                         |      |about electric system|               |          ↓              |
+    |                         |       about electric system                |          ↓              |
     |                      |                   ↓                           |          ↓              |
     |                    |          safe system  unsafe system             |  electric system ...    |
     |                 |                 ↓              ↓                   |          ↓              |
