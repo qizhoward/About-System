@@ -1,8 +1,8 @@
 # About-System
   some-words-phrases
- 
   
     the same time line       
+   
     |----------------------------------------------------------------------|------------------------------------|parent 
     | Loop  Linux  opposeLinux     |                                       |                ↓                   |super version
     |                            |                                         |                ↓                   |
