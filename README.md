@@ -35,11 +35,14 @@
     |
     |
     |
-    |
+    |by xiao yu
     |
     
     
 
 >>>
 >>
->
+> 
+   some i like company list
+   touch company synaptics 
+   some words    graphical 
