@@ -13,14 +13,14 @@
     |              |        freedom unfreedom         freedom unfreedom    |         ...             | 
     |            |             ↓        ↓              ↓         ↓         |       ↓     ↓           |
     |----------------------------------------------------------------------|-------------------------|
-    |          |                English Version  Chinese Version            Other Language Version...|
-    |          |                        ↓              ↓                              ↓              |
-    |          |                               ↓                             ↓                       |
-    |          |                                              ↓                                      |
-    |          |                                The same guide programm system                       |
-    |          |                                              ↓                                      |  
-    |          |                                   public                                             |
-    |          |                                                                                     |
+    |          |                English Version  Chinese Version           |Other Language Version...|
+    |          |                        ↓              ↓                   |          ↓              |
+    |          |                      英文版    ↓     中文版                 |      其他语言版本...      |
+    |          |                   ↓                       ↓               |                         |
+    |          |     The same guide programm system   同样的引导程序         |                         |
+    |          |                   ↓                        ↓              |                         |  
+    |          |         public          Private      公开的  私密的         |                         |
+    |          |                   ↓                        ↓              |                         |
     |          |                                                                                     |
     |------------------------------------------------------------------------------------------------|
     |                                                                                                |
