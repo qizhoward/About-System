@@ -26,7 +26,7 @@
     |    　　　　  developer  user     developer  user                      |    children system      |
     |                 ↓       ↓            ↓      ↓                        |     parents system      |
     |　　　　　　　　　　↓　　　　-------------↓------------------             |   girlfriend system :)  |                                        
-    |　　　　　　　　　　↓　　　　　　　　　　　 ↓　　　　　　　　　↓               |                         |
+    |　　　　　　　　　　↓　　　　　　　　　　　 ↓　　　　　　　　　↓               |   boyfriend system :)   |
     |         　　　　　↓　　　　　　　　　　　↓　　　　　　　　ordinary user　    |                         |
     |　　　　　　　　　-------------↓-----------------        ↓               |                         |  
     |　　　　　　　　　　　　　back developer                  ↓               |                         |  
