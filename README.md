@@ -36,15 +36,19 @@
     |                     --------------------↓-------------------         |                         |
     |                                    other programm                    |                         |
     |                                         ↓                            |                         |
-    |                                //ex.hard programm master             |                         |
+    |                                //ex.hard programm master　           |                         |
+    |                  //ex. android system and windows system             |                         |             
     |                 //ex.chinese bank safe hard like as google glass     |                         | 
     |                     // I need Jurisdiction to change purpose．    　  |                         |
-    |                                        
-    |
-    |
-    |
-    |
-    |
+    |                                                                      |                         |
+    |                                                                      |                         |
+    |                                                                      |                         |
+    |                                                                      |                         |
+    |                                                                      |                         |
+    |                                                                      |                         |
+    |                                                                      |                         |
+    |                                                                      |                         | 
+    |                                                                      |                         |
     |                 This is soft and hard ? Like as Linux system.        |                         |
     |                                                                      |                         |
     |-----------------------------------------------------------------------------------------------------------------
