@@ -40,7 +40,7 @@
     |                  //ex. android system and windows system             |                         |             
     |                 //ex.chinese bank safe hard like as google glass     |                         | 
     |                     // I need Jurisdiction to change purpose．    　  |                         |
-    |                                 platform                             |                         |
+    |                        user platform     developer platform          |                         |
     |                                                                      |                         |
     |                                                                      |                         |
     |                                                                      |                         |
@@ -59,7 +59,7 @@
     |   //　　　|     | 　    |　　　　|    　|　　　
     |　 //         |     |      |       |
     |　 //  -----------------|-------------------
-    |   //            　　　 我
+    |   //            　　　 
     |
     |-----------------------------------------------------------------------------------------------------------------
     |
