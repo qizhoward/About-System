@@ -27,7 +27,7 @@
     |    2            ↓       ↓            ↓      ↓                        |     parents system      |
     |　　　　　　　　　　↓　　　　-------------↓------------------             |   girlfriend system :)  |                                        
     |　　　　　　　　　　↓　　　　　　　　　　　 ↓　　　　　　　　　↓               |   boyfriend system :)   |
-    |         　　　　　↓　　　　　　　　　　　↓　　　　　　　　ordinary user　    |                         |
+    |         　　　　　↓　　　　　　　　　　　↓　　　　　　　　ordinary user　    |                        |
     |　　　　　　　　　-------------↓-----------------        ↓               |                         |  
     |　　　　　　　　　　　　　back developer                  ↓               |                         |  
     |　　　　　　　　　　　     controller                    ↓               |                         | 
