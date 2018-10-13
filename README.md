@@ -21,10 +21,10 @@
     |          |                   ↓                        ↓              |          ↓              |  
     |          |         public          Private      公开的  私密的  　     |       关于权限 　        |
     |          |                   ↓                        ↓              |          ↓              |
-    |          |                               ↓                                                     |
+    |          |                               ↓                           |                         |
     |------------------------------------------------------------------------------------------------|
     |    　　　　  developer  user     developer  user                      |    children system      |
-    |                 ↓       ↓            ↓      ↓                        |     parents system      |
+    |    2            ↓       ↓            ↓      ↓                        |     parents system      |
     |　　　　　　　　　　↓　　　　-------------↓------------------             |   girlfriend system :)  |                                        
     |　　　　　　　　　　↓　　　　　　　　　　　 ↓　　　　　　　　　↓               |   boyfriend system :)   |
     |         　　　　　↓　　　　　　　　　　　↓　　　　　　　　ordinary user　    |                         |
@@ -52,7 +52,7 @@
     |                 This is soft and hard ? Like as Linux system.        |                         |
     |                                                                      |                         |
     |-----------------------------------------------------------------------------------------------------------------
-    |  1
+    |  3
     |   // Loop and fiddler
     | 
     |   //    公开的 公众的　私人的　私密的　开发者　
