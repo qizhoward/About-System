@@ -18,27 +18,27 @@
     |          |                      英文版    ↓     中文版                |      其他语言版本...     |
     |          |                   ↓                       ↓               |          ↓              |
     |          |     The same guide programm system   同样的引导程序        |      同样的引导程序       |
-    |          |                   ↓                        ↓              |          ↓              |  
+    |          |                   ↓                        ↓              |          ↓              |
     |          |         public          Private      公开的  私密的  　    |       关于权限 　        |
     |          |                   ↓                        ↓              |          ↓              |
     |          |                               ↓                           |                         |
     |------------------------------------------------------------------------------------------------|
     |    　　　　  developer  user     developer  user                      |    children system      |
     |    2            ↓       ↓            ↓      ↓                        |     parents system      |
-    |　　　　　　　　　　↓　　　　-------------↓------------------            |   girlfriend system :)  |                                 
+    |　　　　　　　　　　↓　　　　-------------↓------------------            |   girlfriend system :)  |
     |　　　　　　　　　　↓　　　　　　　　　　　 ↓　　　　　　　　　↓            |   boyfriend system :)   |
     |         　　　　　↓　　　　　　　　　　　↓　　　　　　　　ordinary user　 |                         |
-    |　　　　　　　　　-------------↓-----------------        ↓              |                         |  
-    |　　　　　　　　　　　　　back developer                  ↓              |                         |  
-    |　　　　　　　　　　　     controller                    ↓              |                         | 
+    |　　　　　　　　　-------------↓-----------------        ↓              |                         |
+    |　　　　　　　　　　　　　back developer                  ↓              |                         |
+    |　　　　　　　　　　　     controller                    ↓              |                         |
     |                  -----------------------↓---------------------       |                         |
     |                                     TouchPad                         |                         |
     |                     --------------------↓-------------------         |                         |
     |                                    other programm                    |                         |
     |                                         ↓                            |                         |
     |                                //ex.hard programm master　           |                         |
-    |                  //ex. android system and windows system             |                         |             
-    |                 //ex.chinese bank safe hard like as google glass     |                         | 
+    |                  //ex. android system and windows system             |                         |            
+    |                 //ex.chinese bank safe hard like as google glass     |                         |
     |                     // I need Jurisdiction to change purpose．    　 |                         |
     |                        user platform     developer platform          |                         |
     |                                                                      |                         |
