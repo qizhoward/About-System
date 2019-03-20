@@ -64,8 +64,8 @@
     |-----------------------------------------------------------------------------------------------------------------
     |
     |form xiao yu
-    |
-    |
+    |2019.03.20 14:12pm
+    |余鹏
     |
 
 >>>
@@ -74,3 +74,9 @@
    some i like company list </br>
    touch company synaptics </br>
    some words    graphical </br>
+   
+   maybe break back this system is china family...
+   也许把这个系统反过来适用于中国家庭成员图谱...
+   
+   
+   
