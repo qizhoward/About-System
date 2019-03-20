@@ -77,32 +77,34 @@
    
    maybe break back this system is china family...</br>
    也许把这个系统反过来适用于中国家庭成员图谱...</br>
-－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
- |    I busy with my system key
- |----------    
- |    |my car
- |    |----------car pcb board power
- |    |    |my car toy key 
- |    |    |----------my car toy key pcb board power
- |    |    |     |
- |    |          |
- |    |
- |    |my irman glass
- |    |----------irman pcb board power
- |    |    |
- |    |    |----------my irman toy key pcb board power
- |    |    |     |
- |    |          |----------glass toy key 
- |    |          |     |
- |    |                |my irman glass toy key 
- |    |my phone key
- |    |----------
- |    |    | 
- |    |    |----------
- |    |    |
- |    |
- |    |
- |
+________________________________________________________________________________________________
+    
+    |
+    |    I busy with my system key
+    |----------    
+    |    |my car
+    |    |----------car pcb board power
+    |    |    |my car toy key 
+    |    |    |----------my car toy key pcb board power
+    |    |    |     |
+    |    |          |
+    |    |
+    |    |my irman glass
+    |    |----------irman pcb board power
+    |    |    |
+    |    |    |----------my irman toy key pcb board power
+    |    |    |     |
+    |    |          |----------glass toy key 
+    |    |          |     |
+    |    |                |my irman glass toy key 
+    |    |my phone key
+    |    |----------
+    |    |    | 
+    |    |    |----------
+    |    |    |
+    |    |
+    |    |
+    |
  
  
  
