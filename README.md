@@ -2,8 +2,8 @@
   some-words-phrases
   
     the same time line       
-   
-    |----------------------------------------------------------------------|-------------------------|Parent  
+    
+    |----------------------------------------------------------------------|-------------------------|Parent
     | Loop  Linux  OpposeLinux     |                                       |          ↓              |Supervise
     |   the same timeline        |                                         |          ↓              |Biometrics
     |                         |       about electric system                |          ↓              |
@@ -15,22 +15,22 @@
     |----------------------------------------------------------------------|-------------------------|
     |    1     |                English Version  Chinese Version           |Other Language Version...|
     |          |                        ↓              ↓                   |          ↓              |
-    |          |                      英文版    ↓     中文版                 |      其他语言版本...     |
+    |          |                      英文版    ↓     中文版                |      其他语言版本...     |
     |          |                   ↓                       ↓               |          ↓              |
-    |          |     The same guide programm system   同样的引导程序         |      同样的引导程序       |
+    |          |     The same guide programm system   同样的引导程序        |      同样的引导程序       |
     |          |                   ↓                        ↓              |          ↓              |  
-    |          |         public          Private      公开的  私密的  　     |       关于权限 　        |
+    |          |         public          Private      公开的  私密的  　    |       关于权限 　        |
     |          |                   ↓                        ↓              |          ↓              |
     |          |                               ↓                           |                         |
     |------------------------------------------------------------------------------------------------|
     |    　　　　  developer  user     developer  user                      |    children system      |
     |    2            ↓       ↓            ↓      ↓                        |     parents system      |
-    |　　　　　　　　　　↓　　　　-------------↓------------------             |   girlfriend system :)  |                                        
-    |　　　　　　　　　　↓　　　　　　　　　　　 ↓　　　　　　　　　↓               |   boyfriend system :)   |
-    |         　　　　　↓　　　　　　　　　　　↓　　　　　　　　ordinary user　    |                        |
-    |　　　　　　　　　-------------↓-----------------        ↓               |                         |  
-    |　　　　　　　　　　　　　back developer                  ↓               |                         |  
-    |　　　　　　　　　　　     controller                    ↓               |                         | 
+    |　　　　　　　　　　↓　　　　-------------↓------------------            |   girlfriend system :)  |                                 
+    |　　　　　　　　　　↓　　　　　　　　　　　 ↓　　　　　　　　　↓            |   boyfriend system :)   |
+    |         　　　　　↓　　　　　　　　　　　↓　　　　　　　　ordinary user　 |                         |
+    |　　　　　　　　　-------------↓-----------------        ↓              |                         |  
+    |　　　　　　　　　　　　　back developer                  ↓              |                         |  
+    |　　　　　　　　　　　     controller                    ↓              |                         | 
     |                  -----------------------↓---------------------       |                         |
     |                                     TouchPad                         |                         |
     |                     --------------------↓-------------------         |                         |
@@ -39,7 +39,7 @@
     |                                //ex.hard programm master　           |                         |
     |                  //ex. android system and windows system             |                         |             
     |                 //ex.chinese bank safe hard like as google glass     |                         | 
-    |                     // I need Jurisdiction to change purpose．    　  |                         |
+    |                     // I need Jurisdiction to change purpose．    　 |                         |
     |                        user platform     developer platform          |                         |
     |                                                                      |                         |
     |                                                                      |                         |
