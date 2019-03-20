@@ -89,31 +89,34 @@ ________________________________________________________________________________
     |    |    |     |
     |    |          |
     |    |
-    |    |my irman glass
+    |    |my irman glass 
     |    |----------irman pcb board power
     |    |    |
     |    |    |----------my irman toy key pcb board power
     |    |    |     |
     |    |          |----------glass toy key 
     |    |          |     |
-    |    |                |my irman glass toy key 
-    |    |my phone key
-    |    |----------
-    |    |    | 
+    |    |                |my irman glass toy key
+    |    |
+    |    |my phone 
+    |    |----------phone pcb board power
+    |    |    |my phone key
     |    |    |----------
-    |    |    |
+    |    |    |     |
+    |    |    |     |
+    |    |    
+    |    |my watch
+    |    |----------watch pcb board power
+    |    |    |watch key     
+    |    |    |----------
+    |    |    |     |my watch
+    |    |    |      
+    |    | 
     |    |
+    |    |----------
+    |    |    
+    |    |    
     |    |
-    |
- 
- 
- 
- 
- 
- 
-     
-     
-
 
    
    
