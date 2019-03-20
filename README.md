@@ -75,8 +75,8 @@
    touch company synaptics </br>
    some words    graphical </br>
    
-   maybe break back this system is china family...
-   也许把这个系统反过来适用于中国家庭成员图谱...
+   maybe break back this system is china family...</br>
+   也许把这个系统反过来适用于中国家庭成员图谱...</br>
    
    
    
