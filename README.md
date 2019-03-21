@@ -121,15 +121,16 @@ ________________________________________________________________________________
           |   |    |    |----------
           |   |    |    |     |my computer system
           |   |    |    |     |----------
-          |   |    |    |     |     |font maker people 
-          |   |    |    |     |     |----------       
-          |   |    |          |     |     |other software ex.autodesk 3dmax ex.solidwork ex.other draw picture software 
-          |   |    |          |            
+          |   |    |    |     |     |font maker people
+          |   |    |    |     |     |----------
+          |   |    |          |     |     |other software ex.autodesk 3dmax ex.solidwork ex.other draw picture software
+          |   |    |          |
           |   |    |          |my computer other system
-          |   |    |          |----------     
+          |   |    |          |---------- 
           |   |    |                |  : )
           |   |    |               
           |   |    
+          
           
           
                                                                                                          YuPeng 
