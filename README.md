@@ -78,46 +78,60 @@
    maybe break back this system is china family...</br>
    也许把这个系统反过来适用于中国家庭成员图谱...</br>
 ________________________________________________________________________________________________
-    
-    |
-    |    I busy with my system key
-    |----------    
-    |    |my car
-    |    |----------car pcb board power
-    |    |    |my car toy key 
-    |    |    |----------my car toy key pcb board power
-    |    |    |     |
-    |    |          |
-    |    |
-    |    |my irman glass 
-    |    |----------irman pcb board power
-    |    |    |
-    |    |    |----------my irman toy key pcb board power
-    |    |    |     |
-    |    |          |----------glass toy key 
-    |    |          |     |
-    |    |                |my irman glass toy key
-    |    |
-    |    |my phone 
-    |    |----------phone pcb board power
-    |    |    |my phone key
-    |    |    |----------
-    |    |    |     |
-    |    |    |     |
-    |    |    
-    |    |my watch
-    |    |----------watch pcb board power
-    |    |    |watch key     
-    |    |    |----------
-    |    |    |     |my watch
-    |    |    |      
-    |    | 
-    |    |
-    |    |----------
-    |    |    
-    |    |    
-    |    |
-    
+   
+    thanks|future 
+          |   safe first
+          |   now work atudy and game life live with my fish : )
+          |---|    I busy with my system key
+          |   |    safe electricity thanks
+          |   |----------    
+          |   |    |my car
+          |   |    |----------car pcb board power
+          |   |    |    |my car toy key 
+          |   |    |    |----------my car toy key pcb board power
+          |   |    |    |     |
+          |   |    |          |
+          |   |    |
+          |   |    |my irman glass 
+          |   |    |----------irman pcb board power
+          |   |    |    |
+          |   |    |    |----------my irman toy key pcb board power
+          |   |    |    |     |
+          |   |    |          |----------glass toy key 
+          |   |    |          |     |
+          |   |    |                |my irman glass toy key
+          |   |    |
+          |   |    |my phone 
+          |   |    |----------phone pcb board power
+          |   |    |    |my phone key
+          |   |    |    |----------
+          |   |    |    |     |
+          |   |    |    |     |
+          |   |    |    
+          |   |    |my watch
+          |   |    |----------watch pcb board power
+          |   |    |    |watch key     
+          |   |    |    |----------
+          |   |    |    |     |my watch
+          |   |    |    |      
+          |   |    | 
+          |   |    |my computer
+          |   |    |----------
+          |   |    |    |door dog key or dog door key
+          |   |    |    |----------
+          |   |    |    |     |my computer system
+          |   |    |    |     |----------
+          |   |    |    |     |     |font maker people 
+          |   |    |    |     |     |----------       
+          |   |    |          |     |     |other software ex.autodesk 3dmax ex.solidwork ex.other draw picture software 
+          |   |    |          |            
+          |   |    |          |my computer other system
+          |   |    |          |----------     
+          |   |    |                |  : )
+          |   |    |               
+          |   |    
+          
+          
                                                                                                          YuPeng 
                                                                                                          余　鹏       
                                                                                                     2019.03.20 20:00PM 
