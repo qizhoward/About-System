@@ -172,10 +172,10 @@ ________________________________________________________________________________
      |     ｜time line                                                    |           
      |     ｜－－－|                                                       |  
      |     ｜　　  |－－－|time line                                       |
-     |     ｜     ｜     |search line      (un sta bitily)                |
-     |     ｜     ｜     |search box     (un sta bitily)                  |
+     |     ｜     ｜     |search line      (un sta biti ly)               |
+     |     ｜     ｜     |search box     (un sta biti ly)                 |
      |     |      |      |                                                |
-     |     ｜     |      |search image image programm (un sta bitily)...  |
+     |     ｜     |      |search image image programm (un sta biti ly)... |
      |     |      |                                                       |         
      |     |                                                              |
      |                                                                    | 
