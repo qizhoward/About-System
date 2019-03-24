@@ -123,8 +123,8 @@ ________________________________________________________________________________
           |   |    |    |     |----------
           |   |    |    |     |     |font maker people
           |   |    |    |     |     |----------
-          |   |    |          |     |     |other software ex.autodesk 3dmax ex.solidwork ex.other draw picture software
-          |   |    |          |
+          |   |    |          |     |     |other software ex.autodesk 3dmax ex.solidwork 
+          |   |    |          |           |ex.other draw picture software
           |   |    |          |my computer other system
           |   |    |          |---------- 
           |   |    |                |  : )
@@ -169,16 +169,16 @@ ________________________________________________________________________________
      |   ar|vr                                                            　　　　|
      | 虚拟｜现实                                                          　　　　|
      |     ｜                                                             　　　　|
-     |     ｜time line                                                    　　　　|           
-     |     ｜－－－|                                                       　　　　|  
+     |     ｜time line                                                    　　　　|
+     |     ｜－－－|                                                       　　　　|
      |     ｜　　  |－－－|time line                                       　　　　|
      |     ｜     ｜     |search line      (un sta biti ly　不稳定)　　　　　　　　|
      |     ｜     ｜     |search box     (un sta biti ly　不稳定)          　　　　|
      |     |      |      |                                                　　　　|
      |     ｜     |      |search image image programm (un sta biti ly　不稳定)    |
-     |     |      |                                                              |         
+     |     |      |                                                              |
      |     |                                                                     |
-     |                                                                           | 
+     |                                                                           |
      |                 我造了两个三棱锥,第三个不稳定                               |
      | 我之前送过什么东西,可能大概也许差不多基本上要碎了,嗯应该是碎了,                |
      | 也有可能爆炸了,微乐网　略　对不起日本人,尤其是皇室　　                        |
@@ -193,8 +193,8 @@ ________________________________________________________________________________
       First keep stand under water... 
       Drink water...
 
-                                                                                                    YuPeng
-                                                                                                    余　鹏
+                                                                                                   YuPeng
+                                                                                                   余　鹏
                                                                                              2019.03.24 13:50PM                
 
  
