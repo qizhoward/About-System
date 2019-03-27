@@ -225,6 +225,10 @@ ________________________________________________________________________________
           |   |    |connect to center computer database
           |   |
           |   |     还在制造中...
+          |   |
+          
+          i want use window dockpanelsuite to make glass.
+          to make image programm to make work glass.
           
           
                                                                                    YuPeng
