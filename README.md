@@ -92,7 +92,7 @@ ________________________________________________________________________________
           |   |    |    |     |
           |   |    |          |
           |   |    |
-          |   |    |my irman glass 
+          |   |    |my irman glass (china work glass)
           |   |    |----------irman pcb board power
           |   |    |    |
           |   |    |    |----------my irman toy key pcb board power
@@ -198,6 +198,38 @@ ________________________________________________________________________________
                                                                                    YuPeng
                                                                                    余　鹏
                                                                               2019.03.24 13:50PM                
-
- 
+_________________________________________________________________________________________
                                                                                                          
+    thanks|future 
+          |   safe first
+          |   
+          |---|    I busy with my system key
+          |   |    safe electricity thanks
+          |   |----------    
+          |   |    |china work glass one 
+          |   |    |----------pcb board power
+          |   |    |     
+          |   |    |china work glass two    
+          |   |    |----------pcb board power         
+          |   |    |          
+          |   |    |
+          |   |    |china work glass three
+          |   |    |----------pcb board power
+          |   |    |    
+          |   |    |    
+          |   |    |china work glass any more      
+          |   |    |----------pcb board power          
+          |   |    |
+          |   |    | 
+          |   |    |show the 3d world and any more 
+          |   |    |connect to center computer database
+          |   |
+          |   |     还在制造中...
+          
+          
+                                                                                   YuPeng
+                                                                                   余　鹏
+                                                                              2019.03.27 09:30AM 
+          
+          
+          
