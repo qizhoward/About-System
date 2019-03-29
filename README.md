@@ -225,10 +225,16 @@ ________________________________________________________________________________
           |   |    |connect to center computer database
           |   |
           |   |     还在制造中...
+          |   |　　 小提琴,钢琴,梦想,钢铁侠,游戏机
+          |   |     
+          |   |     太极拳,太极剑,好像没什么用，
+          |   |     春雨刀,鬼影刀,龙刀,好像也没什么用,
           |   |
           
           i want use window dockpanelsuite to make glass.
           to make image programm to make work glass.
+          
+          只是想着同学就遇到了那几个老头...
           
           
                                                                                    YuPeng
