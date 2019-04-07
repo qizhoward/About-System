@@ -184,19 +184,20 @@ ________________________________________________________________________________
      |     |                                                             　　　　    |
      |     |time line                                                    　　　　    |
      |     |－－－|                            more camera : )                       |
-     |     |      |camera (if here use search line,can re ser ve(reserve) more time  |
+     |     |      |camera (if here use search line,can re ser ve(reserve) more time |
      |     |      |－－－|link database show image or graphical                      |
-     |     |　　  |      |this thinking different with normal use database           |
-     |     |      |      |maybe with reality word conflict (unstabitily)            | 
+     |     |      |      |this thinking different with normal use database           |
+     |     |      |      |maybe with reality word conflict (unstabitily不稳定)       | 
      |     |      |      |－－－|time line                                           |   
      |     |      |      |      |search line    (un sta biti ly　不稳定)　　　   　   |
      |     |      |      |      |search box     (un sta biti ly　不稳定)      　 　  |
      |     |      |      |                                                　　 　　  |
      |     |      |      |search image image programm (un sta biti ly　不稳定)       |
+     |     |      |      |xbox car game...any more...                               |
      |     |      |                                                                 |
+     |     |      |life car any more...　　　　　　　                                |
      |     |                                                                        |
-     |                                                                              |
-     |                 我造了两个三棱锥,第三个不稳定                                   |
+     |                 　　　　　　　　　　　　　　                                    |
      | 我之前送过什么东西,可能大概也许差不多基本上要碎了,嗯应该是碎了,                    |
      | 也有可能爆炸了,微乐网　略　对不起日本人,尤其是皇室　　                            |
      |------------------------------------------------------------------------------|
