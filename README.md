@@ -365,7 +365,7 @@ ________________________________________________________________________________
                    
              
               ：）    
-             
+             　
              
               if computer read.don't think space.dont't think read english chinese and other language... 
               
@@ -377,6 +377,8 @@ ________________________________________________________________________________
               people work children play game programm and time programm......too more...
               
               if breakback use Recording with family programm :)
+              
+              if irman......too more......
               
               －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－     
                                                                                             
