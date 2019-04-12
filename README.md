@@ -354,7 +354,7 @@ ________________________________________________________________________________
                                                                                        20:37PM
                                                                                         余　鹏
                                                                                         
-                                                                                        
+                                                                                    
               ｜   ｜
               ｜   ｜－－－|
               ｜   ｜
@@ -375,6 +375,8 @@ ________________________________________________________________________________
               robot read......robot show different......
               
               people work children play game programm and time programm......too more...
+              
+              if breakback use Recording with family programm :)
               
               －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－     
                                                                                             
