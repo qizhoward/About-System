@@ -222,7 +222,7 @@ ________________________________________________________________________________
           |   safe first
           |   
           |---|    I busy with my system key
-          |   |    safe electricity thanks
+          |   |    safe electricity... thanks...
           |   |----------    
           |   |    |china work glass one 
           |   |    |----------pcb board power
@@ -248,6 +248,10 @@ ________________________________________________________________________________
           |   |     太极拳,太极剑,好像没什么用，
           |   |     春雨刀,鬼影刀,龙刀,好像也没什么用,
           |   |
+          
+          breakback update inclube compare system breakback system
+          预留反向升级,回滚系统,比对系统
+          
           
           i want use window dockpanelsuite to make glass.
           to make image programm to make work glass.
