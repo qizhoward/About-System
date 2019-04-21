@@ -91,14 +91,14 @@ ________________________________________________________________________________
           |   |    |    |     |
           |   |    |          |
           |   |    |
-          |   |    |my irman glass (china work glass)
+          |   |    |my irman glasses (china work glasses)
           |   |    |----------irman pcb board power
           |   |    |    |
           |   |    |    |----------my irman toy key pcb board power
           |   |    |    |     |
-          |   |    |          |----------glass toy key 
+          |   |    |          |----------glasses toy key 
           |   |    |          |     |
-          |   |    |                |my irman glass toy key
+          |   |    |                |my irman glasses toy key
           |   |    |
           |   |    |my phone 
           |   |    |----------phone pcb board power
@@ -235,18 +235,18 @@ ________________________________________________________________________________
           |---|    I busy with my system key
           |   |    safe electricity... thanks...
           |   |----------    
-          |   |    |china work glass one 
+          |   |    |china work glasses one 
           |   |    |----------pcb board power
           |   |    |     
-          |   |    |china work glass two    
+          |   |    |china work glasses two    
           |   |    |----------pcb board power         
           |   |    |          
           |   |    |
-          |   |    |china work glass three
+          |   |    |china work glasses three
           |   |    |----------pcb board power
           |   |    |    
           |   |    |    
-          |   |    |china work glass any more      
+          |   |    |china work glasses any more      
           |   |    |----------pcb board power          
           |   |    |
           |   |    | 
@@ -264,8 +264,8 @@ ________________________________________________________________________________
           预留反向升级,回滚系统,比对系统
           
           
-          i want use window dockpanelsuite to make glass.
-          to make image programm to make work glass.
+          i want use window dockpanelsuite to make glasses.
+          to make image programm to make work glasses.
           
           只是想着同学就遇到了那几个老头...
           
@@ -287,7 +287,7 @@ ________________________________________________________________________________
               |　　|   |
               |　　|
               |　　|---|
-              |　　|   |glass 预留电子眼镜 机器人,关于那个钢铁侠,预留
+              |　　|   |glasses 预留电子眼镜 机器人,关于那个钢铁侠,预留
               |　　|   |
               |　　|
               |　　|---|
