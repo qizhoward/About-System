@@ -84,16 +84,45 @@ ________________________________________________________________________________
           |---|    I busy with my system key
           |   |    safe electricity thanks
           |   |----------    
+          |   |    |TV and Other 
+          |   |    |----------
+          |   |    | 电视,游戏机
+          |   |    |
+          |   |    |my computer 电脑
+          |   |    |----------
+          |   |    |    |door dog key or dog door key
+          |   |    |    |----------
+          |   |    |    |     |my computer system
+          |   |    |    |     |----------
+          |   |    |    |     |     |windows xp,7,8,10 system apple’s mac system 
+          |   |    |    |     |     |windows,xp,7,8,10系统,苹果的mac系统,其他系统
+          |   |    |    |     |     |----------
+          |   |    |          |     |     |other software ex.autodesk 3dmax ex.solidwork 
+          |   |    |          |           |ex.other draw picture software
+          |   |    |          |my computer other system 其他系统
+          |   |    |          |---------- 
+          |   |    |                |ex.linux Subsystem 例如.基于windows的linux子系统
+          |   |    |                |
+          |   |    |     
+          |   |    |my linux computer 电脑
+          |   |    |----------
+          |   |    |    |linux system   linux系统
+          |   |    |    |----------
+          |   |    |          |   
+          |   |    |          |ex.control car control plane for future far start night auto
+          |   |    |          |例如.控制汽车控制飞机 远程启动 夜间巡航
+          |   |    |          |ex.control phone control watch
+          |   |    |          |例如.控制手机,手表 
           |   |    |my car
           |   |    |----------car pcb board power
-          |   |    |    |my car toy key 
+          |   |    |    |汽车 my car toy key 
           |   |    |    |----------my car toy key pcb board power
           |   |    |    |     |
           |   |    |          |
           |   |    |
           |   |    |my irman glasses (china work glasses)
           |   |    |----------irman pcb board power
-          |   |    |    |
+          |   |    |    |眼镜
           |   |    |    |----------my irman toy key pcb board power
           |   |    |    |     |
           |   |    |          |----------glasses toy key 
@@ -102,33 +131,18 @@ ________________________________________________________________________________
           |   |    |
           |   |    |my phone 
           |   |    |----------phone pcb board power
-          |   |    |    |my phone key
+          |   |    |    |手机 my phone key
           |   |    |    |----------
           |   |    |    |     |
           |   |    |    |     |
           |   |    |    
           |   |    |my watch
           |   |    |----------watch pcb board power
-          |   |    |    |watch key
+          |   |    |    |手表 watch key
           |   |    |    |----------
           |   |    |    |     |my watch
           |   |    |    |  
           |   |    | 
-          |   |    |my computer
-          |   |    |----------
-          |   |    |    |door dog key or dog door key
-          |   |    |    |----------
-          |   |    |    |     |my computer system
-          |   |    |    |     |----------
-          |   |    |    |     |     |font maker people
-          |   |    |    |     |     |----------
-          |   |    |          |     |     |other software ex.autodesk 3dmax ex.solidwork 
-          |   |    |          |           |ex.other draw picture software
-          |   |    |          |my computer other system
-          |   |    |          |---------- 
-          |   |    |                |  : )
-          |   |    |TV and Other E
-          |   |    |----------
           |   |    |
           |   |    
           
@@ -143,7 +157,8 @@ ________________________________________________________________________________
                                                                                             余　鹏 
                                                                                             YuPeng
                                                                                          2019.03.21 17:44PM 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+                                                                        twice edit time：2019.05.22 00:43AM凌晨
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿      
   
     thanks|future         
           |                  
@@ -194,7 +209,7 @@ ________________________________________________________________________________
      | test works and any more...                                         　　　　   |
      |                                                                    　　　　   |
      |   ar|vr                                                            　　　　   |
-     | 虚拟|现实                                                          　　　　    |
+     |  虚拟|现实                                                          　　　　    |
      |     |                                                             　　　　    |
      |     |time line                                                    　　　　    |
      |     |－－－|                            more camera : )                       |
