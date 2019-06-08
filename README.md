@@ -489,6 +489,13 @@ ________________________________________________________________________________
               
               　经验证,王交,王教,用于核武器没问题
               
+              use in human cloning genetic engineering, electronic prison monitoring, 
+              drug and drug clinical medical engineering, genetic engineering, in vitro infant, 
+              embryo development engineering, nuclear weapon engineering.
+              
+              
+              
+              
                                                                                     2019.06.08
                                                                                      20:45PM
                                                                                      余　鹏
