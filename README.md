@@ -157,10 +157,26 @@ ________________________________________________________________________________
               而且电子电路还包含无人值守的夜间自动巡航模式，还包含循环程序 
               gamepad and plane toy 功能集中在眼镜屏幕上,批量生产眼镜屏幕,像可移动屏幕那样
               
+              Translation from Baidu:
+              
+              Note: From the perspective of vibration 
+              (resistance, circuit, electronic engineering, electrical engineering), 
+              it is much more difficult than this.            
+              Moreover, the electronic circuit also includes an unattended night automatic cruise mode and a cycle program.
+              Gamepad and plane toy functions are focused on glasses screens, mass-produced glasses screens, like mobile screens.
+              
+     --------------------------------------------------------------------------         
+              
               刘学军说我是骗子,批量生产的时候去掉刘学军的,卖谁都不卖给刘学军！
               卖谁都不卖给政府！
               
-
+              Translation from Baidu:
+              
+              Liu Xuejun said that I was a cheater. When mass production, 
+              Liu Xuejun was removed. No one was sold to Liu Xuejun. 
+              Sell nobody to the government!
+    ----------------------------------------------------------------------------
+    
                                                                                             余　鹏 
                                                                                             YuPeng
                                                                                          2019.03.21 17:44PM 
