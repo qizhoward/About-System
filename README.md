@@ -162,7 +162,8 @@ ________________________________________________________________________________
               Note: From the perspective of vibration 
               (resistance, circuit, electronic engineering, electrical engineering), 
               it is much more difficult than this.            
-              Moreover, the electronic circuit also includes an unattended night automatic cruise mode and a cycle program.
+              Moreover, the electronic circuit also includes an unattended night 
+              automatic cruise mode and a cycle program.
               Gamepad and plane toy functions are focused on glasses screens,
               mass-produced glasses screens, like mobile screens.
               
@@ -253,14 +254,17 @@ ________________________________________________________________________________
      |     |                                                                        |
      |                 　　　　　　　　　　　　　　                                    |
      | 我之前送过什么东西,可能大概也许差不多基本上要碎了,嗯应该是碎了,                    |
-     | 也有可能爆炸了,微乐网　略　对不起日本人,尤其是日本皇室                            |　
-     |                                                                              |
+     | 也有可能爆炸了,微乐网　略　对不起日本人,尤其是日本皇室                            |
+     |                                                                              |　
+     |         Translation from Baidu:                                              |
      |            翻译来自百度翻译：                                                  |
      |    The Chinese government does not care about unstable program codes         |
      |        中国政府对于不稳定的程序代码不管                                         |
      |                                                                              |
-     |        简而言之,吸毒,杀人都不管　　　　　　　　　　　　　　　　　　　　　          |
      |                                                                              |
+     |        Translation from Baidu:                                               |
+     |        简而言之,吸毒,杀人都不管　　　　　　　　　　　　　　　　　　　　　          |
+     |        In short, drug use, killing people regardless                         |
      |------------------------------------------------------------------------------|
 
                                                                                     YuPeng
