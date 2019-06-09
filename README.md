@@ -153,7 +153,7 @@ ________________________________________________________________________________
          
          
          
-             注:如果从精振(电阻,电路,电子工程,电气工程)的角度看,比这个难多了 
+            注:如果从精振(电阻,电路,电子工程,电气工程)的角度看,比这个难多了 
               而且电子电路还包含无人值守的夜间自动巡航模式，还包含循环程序 
               gamepad and plane toy 功能集中在眼镜屏幕上,批量生产眼镜屏幕,像可移动屏幕那样
               
@@ -163,7 +163,8 @@ ________________________________________________________________________________
               (resistance, circuit, electronic engineering, electrical engineering), 
               it is much more difficult than this.            
               Moreover, the electronic circuit also includes an unattended night automatic cruise mode and a cycle program.
-              Gamepad and plane toy functions are focused on glasses screens, mass-produced glasses screens, like mobile screens.
+              Gamepad and plane toy functions are focused on glasses screens,
+              mass-produced glasses screens, like mobile screens.
               
      --------------------------------------------------------------------------         
               
