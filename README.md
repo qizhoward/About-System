@@ -524,29 +524,6 @@ ________________________________________________________________________________
               
               
               
-              ｜   ｜
-              ｜   ｜－－－|
-              ｜   ｜
-              ｜   ｜－－－|－－－－－－|－－－－－－|－－－－－－|－－－－－－|－－－－－－
-              ｜   ｜　|－－－|     |－－－|    |－－－|　   |－－－|    |－－－| 
-              ｜   ｜　|     ｜    ｜  　 ｜　　　
-               　  ｜　|－－－|　   |－－－|
-                   
-             
-             　可用于克隆人基因工程,电子监狱监控,药物及毒品临床医药工程,基因遗传工程,试管婴儿,胚胎发育工程,核武器工程
-              
-              　经验证,王交,王教,用于核武器没问题
-              
-              use in human cloning genetic engineering, electronic prison monitoring, 
-              drug and drug clinical medical engineering, genetic engineering, in vitro infant, 
-              embryo development engineering, nuclear weapon engineering.
-              
-              
-              
-              
-                                                                                    2019.06.08
-                                                                                     20:45PM
-                                                                                     余　鹏
-              
+      
                                                                             
               
