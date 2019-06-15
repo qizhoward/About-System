@@ -524,9 +524,9 @@ ________________________________________________________________________________
               
               　　－－－－－－－－－－
               　　　　　　｜
-                         ｜－－－
+                         ｜－－－　
                          ｜  ｜
-                         ｜  ｜－－－PC
+                         ｜  ｜－－－PC famliy computer 
                          ｜  ｜  ｜
                          ｜      ｜－－－SystemConsumer consumer_editions_version_1903
                          ｜　　　 |  |1903 专业版 18362.175
@@ -550,11 +550,33 @@ ________________________________________________________________________________
                          ｜      ｜  |
                          ｜　　　 |
                          ｜
+                         ｜
+                         ｜－－－　now witch system use linux thinking way to write programm ?
+                         ｜  |
+                         ｜  |－－－ is 
+                         ｜  |
+                         ｜
+                         ｜
+                         ｜
+                         ｜
+                         ｜      
                          ｜－－－
                          ｜　｜
-                         ｜　｜－－－PADBOOK
+                         ｜　｜－－－PADBOOK Notebook computer 　(过去的Linux思维的电脑)　Past Linux thinking computer　
                          ｜　｜  ｜
                          ｜      |－－－multi-edition_vl_version_1709_updated_dec_2017
                          ｜      |  |1903 专业版 Insider preview 18885.1001
                          ｜      |  
-              
+                         ｜      
+                         ｜－－－
+                         ｜  ｜
+                         ｜  ｜－－－xbox system?
+                         ｜  ｜  |
+                         ｜      |
+                         ｜      |
+                         ｜
+                         ｜
+                         ｜
+                         ｜
+                         
+                         
