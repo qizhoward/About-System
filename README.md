@@ -15,22 +15,22 @@
     |----------------------------------------------------------------------|-------------------------|
     |    1     |                English Version  Chinese Version           |Other Language Version...|
     |          |                        ↓              ↓                   |          ↓              |
-    |          |                      英文版    ↓     中文版                |      其他语言版本...     |
+    |          |                      英文版    ↓     中文版                |      其他语言版本...      |
     |          |                   ↓                       ↓               |          ↓              |
-    |          |     The same guide programm system   同样的引导程序        |      同样的引导程序       |
+    |          |     The same guide programm system   同样的引导程序        |      同样的引导程序        |
     |          |                   ↓                        ↓              |          ↓              |
-    |          |         public          Private      公开的  私密的  　    |       关于权限 　        |
+    |          |         public          Private      公开的  私密的  　    |       关于权限 　         |
     |          |                   ↓                        ↓              |          ↓              |
     |          |                               ↓                           |                         |
     |------------------------------------------------------------------------------------------------|
-    |    　　　　  developer  user     developer  user 　　　　　　　　　　　 |    children system      |
-    |    2            ↓       ↓            ↓      ↓                        |     parents system      |
-    |　　　　　　　　　　↓　　　　-------------↓------------------　　　　　　 |   girlfriend system :)  |
-    |　　　　　　　　　　↓　　　　　　　　　　　 ↓　　　　　　　　　↓            |   boyfriend system :)   |
-    |         　　　　　↓　　　　　　　　　　　↓　　　　　　　　ordinary user　 |                         |
+    |    　　　　  developer  user     developer  user 　　　　　　　　　　　 |    children system       |
+    |    2            ↓       ↓            ↓      ↓                       |     parents system      |
+    |　　　　　　　　　　↓　　　　-------------↓------------------　　　　　　  |   girlfriend system :)  |
+    |　　　　　　　　　　↓　　　　　　　　　　　 ↓　　　　　　　　　↓              |   boyfriend system :)   |
+    |         　　　　　↓　　　　　　　　　　　↓　　　　　　　　ordinary user　  |                          |
     |　　　　　　　　　-------------↓-----------------        ↓              |                         |
     |　　　　　　　　　　　　　back developer                  ↓              |                         |
-    |　　　　　　　　　　　     controller                    ↓              |                         |
+    |　　　　　　　　　　　     controller                    ↓               |                         |
     |                  -----------------------↓---------------------       |                         |
     |                                     TouchPad                         |                         |
     |                     --------------------↓-------------------         |                         |
@@ -241,7 +241,7 @@ ________________________________________________________________________________
      |     |－－－|                            more camera : )                       |
      |     |      |camera (if here use search line,can re ser ve(reserve) more time |
      |     |      |－－－|link database show image or graphical                      |
-     |     |      |      |this thinking different with normal use database           |
+     |     |      |      |this thinking different with normal use database          |
      |     |      |      |maybe with reality word conflict (unstabitily不稳定)       | 
      |     |      |      |－－－|time line                                           |   
      |     |      |      |      |search line    (un sta biti ly　不稳定)　　　   　   |
@@ -250,20 +250,20 @@ ________________________________________________________________________________
      |     |      |      |search image image programm (un sta biti ly　不稳定)       |
      |     |      |      |xbox car game...any more...                               |
      |     |      |                                                                 |
-     |     |      |life car any more...　　　　　　　                                |
+     |     |      |life car any more...　　　　　　　                                 |
      |     |                                                                        |
-     |                 　　　　　　　　　　　　　　                                    |
-     | 我之前送过什么东西,可能大概也许差不多基本上要碎了,嗯应该是碎了,                    |
-     | 也有可能爆炸了,微乐网　略　对不起日本人,尤其是日本皇室                            |
+     |                 　　　　　　　　　　　　　　                                     |
+     | 我之前送过什么东西,可能大概也许差不多基本上要碎了,嗯应该是碎了,                      |
+     | 也有可能爆炸了,微乐网　略　对不起日本人,尤其是日本皇室                              |
      |                                                                              |　
      |         Translation from Baidu:                                              |
      |            翻译来自百度翻译：                                                  |
      |    The Chinese government does not care about unstable program codes         |
-     |        中国政府对于不稳定的程序代码不管                                         |
+     |        中国政府对于不稳定的程序代码不管                                          |
      |                                                                              |
      |                                                                              |
      |        Translation from Baidu:                                               |
-     |        简而言之,吸毒,杀人都不管　　　　　　　　　　　　　　　　　　　　　          |
+     |        简而言之,吸毒,杀人都不管　　　　　　　　　　　　　　　　　　　　　             |
      |        In short, drug use, killing people regardless                         |
      |------------------------------------------------------------------------------|
 
@@ -408,8 +408,8 @@ ________________________________________________________________________________
               2+2 = 2*2       2^2
               3+3+3 = 3*3       3^3
               4+4+4+4 = 4*4 (左边要想很久)  4^4(我的速度)               4*4*4*4     256
-              5+5+5+5+5 = 5*5 (左边要想很久)  5^5(我的速度最大值）125   5*5*5*5*5    25*5=想*5+=想*5  需要思考时间...
-              6+6+6+6+6+6 = 6*6 (左边要想很久)  6^6(我要想很久) 6^6*6  6*6*6*6*6*6   36*6=想*6+＝想*6=想*6= 需要思考时间.
+              5+5+5+5+5 = 5*5 (左边要想很久)  5^5(我的速度最大值）125   5*5*5*5*5    25*5=想*5+=想*5 需要思考时间...
+              6+6+6+6+6+6 = 6*6 (左边要想很久)  6^6(我要想很久) 6^6*6  6*6*6*6*6*6  36*6=想*6+＝想*6=想*6=需要思考时间.
               789 10 没必要写,不如直接列个表格,直接读出来
               
               如果用数字表示3D世界的话,那就难了,
