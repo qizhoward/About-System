@@ -539,7 +539,7 @@ ________________________________________________________________________________
                          ｜      ｜  |－－－
                          ｜      ｜  |
                          ｜      ｜
-                         ｜      ｜－－－SystemOFltsc enterprise_ltsc_2019 enterprise_ltsc_2019_x64_dvd_d17070a8
+                         ｜      ｜－－－SystemOFltsc enterprise_ltsc_2019_x64_dvd_d17070a8
                          ｜      ｜  ｜1809 企业版LTSC 17763.503
                          ｜      ｜  ｜－－－
                          ｜      ｜  ｜
