@@ -471,73 +471,9 @@ ________________________________________________________________________________
               if future
               如果未来
               
-              -----
-                |
-                |-----sony
-                |  |
-                |  |-----siri
-                |  |  |      
-                |  |  |---
-                |  |  |
-                |  |  
-                |  |-----cortana
-                |  |  |
-                |  |  |---
-                |  |  |
-                |  |
-                |  |
-                |
-                |-----sony
-                |  |
-                |  |---
-                |  |
-                |
-                |
+     
                 
-               Apple robot    Microsoft robot 
-               苹果机器人   微软机器人
-                
-               I only for sony and sony robot  
-               我为索尼的科研预留,为索尼的机器语音预留
-               
-                
-               
-              -----
-                |
-                |-----china phone ? xiao mi ? hua wei ? and other phone
-                |  |
-                |  |----- they robot service
-                |  |  |      
-                |  |  |---
-                |  |  |
-                |  |  
-                |  |-----
-                |  |  |
-                |  |  |---
-                |  |  |
-                |  |
-                |  |
-                |
-                |-----china phone
-                |
-                |  
-                | 
-              
-             
-              I like apple system 
-              I love java programm  
-               
-              Maybe i love Sun Jingyang
-              
-               我喜欢苹果系统
-               我爱java的程序
-               
-               我可能喜欢孙敬洋
-                
-                
-                                                                                    2019.05.31
-                                                                                     11:59AM
-                                                                                      余　鹏
+
               
               －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－ 
                
